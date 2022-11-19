@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Işınnur 
-- 👀 I’m interested in front-end web development
+- 👀 I’m interested in front-end development
 - 📫 How to reach me isinngnyy@gmail.com
 
 <!---
