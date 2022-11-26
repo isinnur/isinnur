@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Işınnur 
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me isinngnyy@gmail.com
 
 <!---
