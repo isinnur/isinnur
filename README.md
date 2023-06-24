@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Işınnur</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There+👋;I'm+Işınnur+Günay+;&center=true&size=28&duration=3600&pause=500&color=714CA7FF">
+</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isinnur&label=Profile%20views&color=0e75b6&style=flat" alt="isinnur" /> </p>
