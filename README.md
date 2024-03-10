@@ -1,7 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isinnur&label=Profile%20views&color=0e75b6&style=flat" alt="isinnur" /> </p>
 <h1 align="center">Hello There👋 I'm Işınnur</h1>
-<h3 align="center">Computer Engineering Student</h3>
 
 ###
 
