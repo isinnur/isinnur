@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">👀 I’m interested in front-end development.<br><br>⚡ I’m currently learning React.js, Next.js.  <br><br>📫 How to reach me isinnurdev@gmail.com</p>
+<p align="left">👀 I’m interested in front-end development.<br><br>⚡ I’m currently learning Node.js, React.js, Next.js.  <br><br>📫 How to reach me isinnurdev@gmail.com</p>
 
 ###
 
