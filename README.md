@@ -3,9 +3,11 @@
 
 
 
-👀 Passionate about frontend development. <br/>
-⚡ Constantly improving my skills in modern web technologies. <br/>
-📫 How to reach me isinnurdev@gmail.com  <br/><br/>    
+👀 Passionate about frontend development.
+
+⚡ Constantly improving my skills in modern web technologies.
+
+📫 How to reach me isinnurdev@gmail.com     <br/> <br/>
 
 
 
